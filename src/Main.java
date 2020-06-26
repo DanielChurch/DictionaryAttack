@@ -1,5 +1,5 @@
 /*
- * Daniel Church
+ * Daniel Church foo
  * -02226198
  * 02/07/17
  * Dictionary Link: https://github.com/Legendaries/ComputerSecurity/blob/master/dict.txt
